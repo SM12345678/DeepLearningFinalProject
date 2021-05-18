@@ -1,5 +1,5 @@
 # Deep Learning Final Project 
-(Waste Recycling with Improved Object Detection):
+Waste Recycling with Improved Object Detection
 
 
 Large images pose a problem for the conventional object detection techniques. Object detection techniques like R-CNN, SSD are
