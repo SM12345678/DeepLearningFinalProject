@@ -13,4 +13,5 @@ We have demonstrated the improvement of Reinforcement Learning based
 attention mechanism over RCNN based object detection using two notbooks:
 
 Object_Detection_without_Reinforcement_Learning.ipynb
+
 Object_Detection_with_Deep_Reinforcement_Learning.ipynb
