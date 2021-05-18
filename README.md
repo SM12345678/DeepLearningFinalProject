@@ -8,3 +8,9 @@ at improving the conventional R-CNN and SSD algorithms using Reinforcement Learn
 attention mechanism we intend to reduce the computational load of the exhaustive box proposal mechanism by efficiently finding
 regions of interest in the images. This model can be used to efficiently identify trash objects in large waste collection facilities to help
 recycling systems.
+
+We have demonstrated the improvement of Reinforcement Learning based
+attention mechanism over RCNN based object detection using two notbooks:
+
+Object_Detection_without_Deep_Reinforcement_Learning.ipynb
+Object_Detection_with_Deep_Reinforcement_Learning.ipynb
