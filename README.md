@@ -1,4 +1,7 @@
-# DeepLearningFinalProject
+# DeepLearning Final Project
+
+Waste Recycling with Improved Object Detection:
+
 Large images pose a problem for the conventional object detection techniques. Object detection techniques like R-CNN, SSD are
 computationally extensive. They also incur heavy memory and runtime costs for large or densely populated images. This project aims
 at improving the conventional R-CNN and SSD algorithms using Reinforcement Learning. Using a Reinforcement Learning based
