@@ -16,7 +16,7 @@ Object_Detection_without_Reinforcement_Learning.ipynb
 
 Object_Detection_with_Deep_Reinforcement_Learning.ipynb
 
-This repository has one more colab notebook(reference of our previous work in Object Detection as part of Intro To ML Course in Fall, 2020), which provides a comparative study of various object detection models:
+This repository has one more colab notebook(reference of our previous work in Object Detection as part of Intro To ML Course in Fall, 2020), which provides a comparative study of some popular object detection models:
 
 Intro_to_ML_(Fall_2020)_Project_Report.ipynb 
 
