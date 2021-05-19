@@ -16,7 +16,7 @@ Object_Detection_without_Reinforcement_Learning.ipynb
 
 Object_Detection_with_Deep_Reinforcement_Learning.ipynb
 
-This repository has one more colab notebook(reference of our previous work in Object Detection as part of Intro To ML Course in Fall, 2020), which details about the state of art models currently used for object detection and also talks about the suitability of these models in various schenarios:
+This repository has one more colab notebook(reference of our previous work in Object Detection as part of Intro To ML Course in Fall, 2020), which details about the state of art models currently used for object detection and also talks about the suitability of these models in various scenarios:
 
 Intro_to_ML_(Fall_2020)_Project_Report.ipynb 
 
