@@ -21,6 +21,4 @@ This repository has one more colab notebook(reference of our previous work in Ob
 Intro_to_ML_(Fall_2020)_Project_Report.ipynb 
 
 
-References:
-
 
