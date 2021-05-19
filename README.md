@@ -15,3 +15,8 @@ attention mechanism over RCNN based object detection using two notebooks:
 Object_Detection_without_Reinforcement_Learning.ipynb
 
 Object_Detection_with_Deep_Reinforcement_Learning.ipynb
+
+This repository has one more colab notbook(reference of our previous work in Object Detection as part of Intro To ML course in Fall, 2020):
+
+Intro_to_ML_(Fall_2020)_Project_Report.ipynb 
+
